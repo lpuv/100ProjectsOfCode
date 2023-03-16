@@ -18,7 +18,7 @@ General Web projects, from building a simple website to building tools for compl
   - [ ] [FTP Client](#ftp-client)
   - [ ] [HTTP Server](#http-server)
   - [ ] [Web Scraper](#web-scraper)
-  - [ ] [Port Scanner](#port-scanner)
+  - [x] [Port Scanner](#port-scanner)
   - [ ] [Packet Sniffer](#packet-sniffer)
   - [ ] [P2P File Sharing](#p2p-file-sharing)
   - [ ] [Web Search Engine](#search-engine)
